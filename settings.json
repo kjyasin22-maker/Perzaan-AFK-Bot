@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "HEALTHY457.aternos.me:26774",
+    "port": 26774,
     "version": "1.21.1"
   },
   "position": {
